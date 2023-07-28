@@ -1,6 +1,7 @@
 * {
     line-height: 1.5;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    box-sizing: border-box;
 }
 div {
     text-align: center;
@@ -11,6 +12,7 @@ div {
 }
 img {
     width: 400px;
+    padding: 4px;
 }
 ul, ol, p, li, a, .lists {
     list-style: none;
