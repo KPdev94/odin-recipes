@@ -1,0 +1,19 @@
+* {
+    line-height: 1.5;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+div {
+    text-align: center;
+    background-color: beige;
+}
+.dish-name {
+    background-color: bisque;
+}
+img {
+    width: 400px;
+}
+ul, ol, p, li, a, .lists {
+    list-style: none;
+    padding: 0;
+    background-color: beige;
+}
