@@ -17,3 +17,14 @@ ul, ol, p, li, a, .lists {
     padding: 0;
     background-color: beige;
 }
+
+#prep, #cook, #total {
+    display: inline-block;
+    padding: 10px;
+}
+#prep {
+    border-right: dashed black 2px;
+}
+#total {
+    border-left: dashed black 2px;
+}
